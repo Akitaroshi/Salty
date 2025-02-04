@@ -1,5 +1,5 @@
 new Swiper('.destination__swiper', {
     slidesPerView: 3,
     slidesPerGroup: 1,
-    spaceBetween: 30
+    spaceBetween: 25,
 });
