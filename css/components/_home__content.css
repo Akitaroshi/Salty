@@ -1,6 +1,9 @@
 .home__content__inner{
     display: flex;
+<<<<<<< HEAD
     margin-bottom: 79px;
+=======
+>>>>>>> eb71486a9bb1f6debdf6388127bfb42ec37c5735
 }
 
 .home__content {
@@ -99,7 +102,12 @@
 
 .home__img{
     display: flex;
+<<<<<<< HEAD
     padding-bottom: 53px;
 }
 
 
+=======
+}
+
+>>>>>>> eb71486a9bb1f6debdf6388127bfb42ec37c5735
