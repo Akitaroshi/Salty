@@ -2,16 +2,13 @@
 @import 'css/vendor/_reset.css';
 @import 'css/vendor/_global.css';
 
-
-
 @import 'css/components/_home__content.css';
 @import 'css/components/_header.css';
 @import 'css/components/_bottom.css';
-<<<<<<< HEAD
 @import 'css/components/_footer.css';
 @import 'css/components/categories.css';
 @import 'css/components/_adventure.css';
 @import 'css/components/_destination.css';
-=======
+
 @import 'css/components/_footer.css';
->>>>>>> eb71486a9bb1f6debdf6388127bfb42ec37c5735
+
