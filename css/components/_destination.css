@@ -131,7 +131,9 @@
     color: #5B5F62;
     margin-bottom: 28px;
 }
-.destination__btns{
+
+
+.destination__btns {
     display: flex;
     gap: 14px;
     font-size: 14px;
@@ -153,7 +155,8 @@
 }
 
 .top__destinations__buttons--white {
-   
+
+
     border: 1px solid black;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -165,17 +168,62 @@
     line-height: 14px;
 }
 
-.top__destinations__imgs {
-    flex-direction: column;
+
+.__Vietnam1 {
+    margin-bottom: 26px;
+}
+
+.image__container2 {
+    gap: 13px;
     display: flex;
-    margin-bottom: 26px;
+    flex-direction: column;
 }
 
-.__Vientam {
-    margin-bottom: 26px;
-}
-
-.imgs{
+.imgs {
     display: flex;
     gap: 30px;
+    padding-bottom: 37px;
+    margin-bottom: 37px;
+
+
+}
+
+
+.fifth__img__container {
+    display: flex;
+    gap: 30px;
+}
+
+.img {
+    position: relative;
+}
+
+.destination__rating {
+    padding: 5px 10px;
+    background-color: white;
+    border-radius: 12px;
+    position: absolute;
+    top: 27px;
+    left: 27px;
+}
+
+.destination__rating.black {
+    background-color: #2D3134;
+    color: white;
+}
+
+.destination__vietnam {
+    position: absolute;
+    bottom: 24px;
+    color: white;
+    left: 24px;
+}
+
+.destination__paragraph {
+    position: absolute;
+    bottom: 48px;
+    left: 24px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
 }
